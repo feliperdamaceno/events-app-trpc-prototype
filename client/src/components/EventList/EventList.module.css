@@ -1,0 +1,10 @@
+.events {
+  display: grid;
+  gap: 2rem;
+}
+
+@media (width > 800px) {
+  .events {
+    grid-template-columns: repeat(auto-fill, minmax(40ch, 1fr));
+  }
+}

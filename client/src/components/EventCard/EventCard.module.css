@@ -1,0 +1,21 @@
+.event {
+  padding-block: 1rem;
+  padding-inline: 2rem;
+  border: 1px solid white;
+  display: grid;
+}
+
+.title {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  margin-bottom: 0.25em;
+}
+
+.date {
+  margin-bottom: 0.75em;
+}
+
+.host {
+  font-weight: bold;
+}
