@@ -1,5 +1,5 @@
 {
-  "name": "events-api",
+  "name": "server",
   "version": "1.0.0",
   "main": "src/cmd/main.ts",
   "type": "module",
