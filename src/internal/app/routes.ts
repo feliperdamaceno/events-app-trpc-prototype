@@ -3,8 +3,14 @@ import {
   type FastifyTRPCPluginOptions
 } from '@trpc/server/adapters/fastify'
 import { type FastifyInstance } from 'fastify'
-import { TRPCRouter, type AppRouter } from '../handler/trpc.js'
 import { createContext } from './context.js'
+import { router } from './trpc.js'
+
+import { EventsHandler } from '../handler/events.handler.js'
+
+export const TRPCRouter = router({
+  events: EventsHandler
+})
 
 export function LoadRoutes(fastify: FastifyInstance) {
   fastify.get('/', async () => {
@@ -22,3 +28,5 @@ export function LoadRoutes(fastify: FastifyInstance) {
     } satisfies FastifyTRPCPluginOptions<AppRouter>['trpcOptions']
   })
 }
+
+export type AppRouter = typeof TRPCRouter

@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Tech Innovators Conference",
+    "host": "Innovate Now",
+    "date": "2024-11-10T09:00:00Z"
+  },
+  {
+    "title": "AI for Good Summit",
+    "host": "World AI Organization",
+    "date": "2024-12-02T10:00:00Z"
+  },
+  {
+    "title": "Frontend Mastery Workshop",
+    "host": "Code Builders",
+    "date": "2024-11-15T15:30:00Z"
+  },
+  {
+    "title": "Healthcare Tech Expo",
+    "host": "Global Health",
+    "date": "2024-11-20T09:00:00Z"
+  },
+  {
+    "title": "Designing for Accessibility",
+    "host": "UX Guild",
+    "date": "2024-12-05T11:00:00Z"
+  },
+  {
+    "title": "Green Tech Conference",
+    "host": "Eco Future",
+    "date": "2024-11-18T08:00:00Z"
+  },
+  {
+    "title": "Blockchain in Business",
+    "host": "Crypto Connect",
+    "date": "2024-12-10T13:00:00Z"
+  },
+  {
+    "title": "Creative Coding Workshop",
+    "host": "Creative Devs",
+    "date": "2024-11-28T10:00:00Z"
+  },
+  {
+    "title": "Future of E-commerce",
+    "host": "ShopTech",
+    "date": "2024-12-08T12:00:00Z"
+  },
+  {
+    "title": "Digital Marketing Deep Dive",
+    "host": "Market Masters",
+    "date": "2024-11-25T09:30:00Z"
+  },
+  {
+    "title": "SaaS Growth Hacks",
+    "host": "Growth Wizards",
+    "date": "2024-11-22T15:00:00Z"
+  },
+  {
+    "title": "React Advanced Patterns",
+    "host": "JS Experts",
+    "date": "2024-12-14T10:00:00Z"
+  },
+  {
+    "title": "Women in Tech Meetup",
+    "host": "Women Who Code",
+    "date": "2024-12-03T17:30:00Z"
+  },
+  {
+    "title": "Cybersecurity Awareness",
+    "host": "Cyber Protect",
+    "date": "2024-11-30T11:00:00Z"
+  },
+  {
+    "title": "Agile Development Bootcamp",
+    "host": "Agile Minds",
+    "date": "2024-12-11T08:30:00Z"
+  },
+  {
+    "title": "Big Data for Beginners",
+    "host": "Data Science Hub",
+    "date": "2024-12-07T09:00:00Z"
+  },
+  {
+    "title": "Machine Learning in Finance",
+    "host": "Finance AI",
+    "date": "2024-11-27T12:00:00Z"
+  },
+  {
+    "title": "Mobile App Trends",
+    "host": "App Innovators",
+    "date": "2024-12-13T16:00:00Z"
+  },
+  {
+    "title": "Product Design Sprint",
+    "host": "Design Labs",
+    "date": "2024-11-29T09:00:00Z"
+  },
+  {
+    "title": "Ethics in AI",
+    "host": "AI Society",
+    "date": "2024-12-15T14:00:00Z"
+  },
+  {
+    "title": "Serverless Architecture",
+    "host": "Cloud Builders",
+    "date": "2024-12-09T10:30:00Z"
+  },
+  {
+    "title": "Data Visualization Workshop",
+    "host": "Viz Masters",
+    "date": "2024-11-26T14:00:00Z"
+  },
+  {
+    "title": "Quantum Computing 101",
+    "host": "Quantum World",
+    "date": "2024-11-21T13:00:00Z"
+  },
+  {
+    "title": "Augmented Reality Demo Day",
+    "host": "XR Collective",
+    "date": "2024-12-12T11:00:00Z"
+  },
+  {
+    "title": "Web Animation Techniques",
+    "host": "AnimDev",
+    "date": "2024-11-24T15:00:00Z"
+  },
+  {
+    "title": "Entrepreneurship Essentials",
+    "host": "Startup Hub",
+    "date": "2024-11-23T08:00:00Z"
+  },
+  {
+    "title": "Future of Remote Work",
+    "host": "Remote Nation",
+    "date": "2024-12-06T13:30:00Z"
+  },
+  {
+    "title": "AI in Healthcare",
+    "host": "MediTech",
+    "date": "2024-12-04T09:00:00Z"
+  },
+  {
+    "title": "Modern CSS Workshop",
+    "host": "CSS Grid Masters",
+    "date": "2024-12-01T10:00:00Z"
+  },
+  {
+    "title": "Python for Data Science",
+    "host": "Data Devs",
+    "date": "2024-11-17T12:00:00Z"
+  },
+  {
+    "title": "Game Development Summit",
+    "host": "Play Dev",
+    "date": "2024-12-16T10:00:00Z"
+  },
+  {
+    "title": "Intro to UI/UX Design",
+    "host": "Design Lab",
+    "date": "2024-11-16T14:00:00Z"
+  },
+  {
+    "title": "Cloud Security Conference",
+    "host": "SecureCloud",
+    "date": "2024-11-13T08:00:00Z"
+  },
+  {
+    "title": "E-commerce Trends 2024",
+    "host": "ShopFuture",
+    "date": "2024-11-19T11:30:00Z"
+  },
+  {
+    "title": "Social Media Strategy",
+    "host": "Media Pro",
+    "date": "2024-11-14T12:30:00Z"
+  },
+  {
+    "title": "Data Analytics Workshop",
+    "host": "Data Crunch",
+    "date": "2024-12-17T09:00:00Z"
+  },
+  {
+    "title": "Product Management 101",
+    "host": "Product Pros",
+    "date": "2024-11-12T10:00:00Z"
+  },
+  {
+    "title": "Introduction to Vue.js",
+    "host": "JS Coders",
+    "date": "2024-11-11T15:00:00Z"
+  },
+  {
+    "title": "Tech Entrepreneurship 2024",
+    "host": "Innovators Hub",
+    "date": "2024-11-08T09:00:00Z"
+  },
+  {
+    "title": "Deep Learning Bootcamp",
+    "host": "AI Masters",
+    "date": "2024-12-18T11:00:00Z"
+  },
+  {
+    "title": "SEO Best Practices",
+    "host": "Search Boost",
+    "date": "2024-11-09T14:00:00Z"
+  },
+  {
+    "title": "Responsive Web Design",
+    "host": "Web Pros",
+    "date": "2024-11-07T10:30:00Z"
+  },
+  {
+    "title": "AI in Education",
+    "host": "EduTech",
+    "date": "2024-11-06T12:00:00Z"
+  },
+  {
+    "title": "Personal Branding Workshop",
+    "host": "Brand You",
+    "date": "2024-12-19T13:00:00Z"
+  },
+  {
+    "title": "JavaScript for Beginners",
+    "host": "Code Academy",
+    "date": "2024-11-05T09:00:00Z"
+  },
+  {
+    "title": "Future of Digital Payments",
+    "host": "PayTech",
+    "date": "2024-12-20T15:30:00Z"
+  },
+  {
+    "title": "Innovation in Fintech",
+    "host": "Fintech Hub",
+    "date": "2024-11-04T10:00:00Z"
+  },
+  {
+    "title": "UX Research Basics",
+    "host": "Design Insights",
+    "date": "2024-11-03T13:00:00Z"
+  },
+  {
+    "title": "Developing with TypeScript",
+    "host": "Code Masters",
+    "date": "2024-11-02T12:00:00Z"
+  },
+  {
+    "title": "Digital Product Design",
+    "host": "Create Design",
+    "date": "2024-12-21T14:00:00Z"
+  }
+]
