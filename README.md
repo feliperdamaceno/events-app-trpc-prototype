@@ -1,8 +1,41 @@
-# events-app-trpc-prototype
-
-Full-Stack prototype application created to explore and test the capabilities of tRPC for efficient type-safe communication between frontend and backend.
+## events-app-trpc-prototype
 
 The backend leverages Fastify and tRPC to establish a lightweight, scalable API layer, while the frontend uses React with Zustand for state management and tRPC for seamless data fetching.
+
+### Running the Application
+
+To get the prototype running, follow these steps:
+
+1. #### Install Dependencies
+
+   In both the server and client directories, run:
+
+   ```bash
+   npm install
+   ```
+
+2. #### Start the Server
+
+   Navigate to the server directory and start the server with:
+
+   ```bash
+   npm run start
+   ```
+
+   This will launch the Fastify server, setting up the backend API with tRPC.
+
+3. #### Build and Preview the Client
+
+   In a separate terminal, navigate to the client directory and run:
+
+   ```bash
+   npm run build
+   npm run preview
+   ```
+
+   This will build the React frontend for production and then serve it in preview mode.
+
+The application should be accessible, with the frontend interacting with the backend via tRPC.
 
 ## Licence
 
