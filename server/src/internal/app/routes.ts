@@ -7,6 +7,7 @@ import { createContext } from './context.js'
 import { router } from './trpc.js'
 
 import { EventsHandler } from '../handler/events.handler.js'
+import type { AppRouter } from '../../types.js'
 
 export const TRPCRouter = router({
   events: EventsHandler
@@ -28,5 +29,3 @@ export function LoadRoutes(fastify: FastifyInstance) {
     } satisfies FastifyTRPCPluginOptions<AppRouter>['trpcOptions']
   })
 }
-
-export type AppRouter = typeof TRPCRouter
