@@ -1,0 +1,17 @@
+{
+  "name": "events-api",
+  "version": "1.0.0",
+  "main": "src/main.ts",
+  "scripts": {
+    "dev": "tsx watch src/main.ts",
+    "start": "tsx src/main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.8.0",
+    "tsx": "^4.19.1",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "fastify": "^5.0.0"
+  }
+}
