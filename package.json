@@ -1,10 +1,11 @@
 {
   "name": "events-api",
   "version": "1.0.0",
-  "main": "src/cmd/app.ts",
+  "main": "src/cmd/main.ts",
+  "type": "module",
   "scripts": {
-    "dev": "tsx watch src/cmd/app.ts",
-    "start": "tsx src/cmd/app.ts"
+    "dev": "tsx watch src/cmd/main.ts",
+    "start": "tsx src/cmd/main.ts"
   },
   "devDependencies": {
     "@types/node": "^22.8.0",
@@ -12,6 +13,7 @@
     "typescript": "^5.6.3"
   },
   "dependencies": {
+    "@trpc/server": "^11.0.0-rc.593",
     "fastify": "^5.0.0"
   }
 }
